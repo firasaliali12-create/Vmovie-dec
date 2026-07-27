@@ -1,8 +1,8 @@
 {
   "name": "Vmovie Foreign",
-  "description": "مشاهدة الافلام والمسلسلات تجربة خالية من الاعلانات",
+  "description": "تجربة خالية من الاعلانات",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/firasaliali12-create/Vmovie-dec/main/plugins.json"
+    "https://lucky-bonus-dd7e.firasaliali12.workers.dev/plugins.json"
   ]
 }
