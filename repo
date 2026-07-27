@@ -1,12 +1,8 @@
 {
   "name": "Vmovie Foreign",
-  "id": "vmovie.foreign.dec",
-  "version": "1.0.0",
-  "plugins": [
-    {
-      "name": "Top Cinema",
-      "url": "https://topcinemaa.cc/",
-      "active": true
-    }
+  "description": "مشاهدة الافلام والمسلسلات تجربة خالية من الاعلانات",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/firasaliali12-create/Vmovie-dec/main/plugins.json"
   ]
 }
