@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Vmovie Plugin",
+    "internalName": "VmoviePlugin",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/firasaliali12-create/Vmovie-dec/main/plugin.csx"
+  }
+]
