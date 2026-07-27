@@ -1,5 +1,12 @@
 {
-  "name": "Vmovie Foreign Repository",
-  "version": "1.0",
-  "url": "https://topcinemaa.cc/"
+  "name": "Vmovie Foreign",
+  "id": "vmovie.foreign.dec",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "Top Cinema",
+      "url": "https://topcinemaa.cc/",
+      "active": true
+    }
+  ]
 }
