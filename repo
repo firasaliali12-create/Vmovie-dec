@@ -1,8 +1,6 @@
 {
-  "name": "Vmovie Foreign",
+  "name": "V-Box",
   "description": "تجربة خالية من الاعلانات",
   "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/firasaliali12-create/Vmovie-dec/main/plugins.json"
-  ]
+  "pluginLists": ["https://raw.githubusercontent.com/firasaliali12-create/Vmovie-dec/refs/heads/main/plugins.json"]
 }
