@@ -3,6 +3,6 @@
   "description": "تجربة خالية من الاعلانات",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://lucky-bonus-dd7e.firasaliali12.workers.dev/plugins.json"
+    "https://raw.githubusercontent.com/firasaliali12-create/Vmovie-dec/main/plugins.json"
   ]
 }
