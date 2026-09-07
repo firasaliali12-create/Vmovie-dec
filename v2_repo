@@ -1,6 +1,6 @@
 {
   "name": "V-Box",
-  "description": "تجربة خالية من الاعلانات",
+  "description": "مشاهدة الافلام والمسلسلات تجربة خالية من الاعلانات",
   "manifestVersion": 1,
-  "pluginLists": ["https://raw.githubusercontent.com/firasaliali12-create/Vmovie-dec/refs/heads/main/plugins.json"]
+  "pluginLists": ["https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/plugins.json"]
 }
