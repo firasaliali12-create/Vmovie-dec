@@ -1,6 +1,6 @@
 {
-  "name": "V-Box",
+  "name": "V-Box activation",
   "description": "مشاهدة الافلام والمسلسلات تجربة خالية من الاعلانات",
   "manifestVersion": 1,
-  "pluginLists": ["https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/plugins.json"]
+  "pluginLists": ["https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/builds/plugins.json"]
 }
